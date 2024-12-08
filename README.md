@@ -1,1 +1,1 @@
-<p>It is a demo repo created locally.</p>
+# It is a demo repo created locally.
