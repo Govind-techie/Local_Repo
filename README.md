@@ -1,1 +1,1 @@
-It is a deom repo created locally.
+It is a demo repo created locally.
